@@ -26,11 +26,11 @@ public class HolaMundo {
 * Segundo elemento desordenado
 * Tercer elemento desordenado
 
-[URL_Externa](https://docs.github.com/es/rest/guides/ "Un enlace a una guia de documentacion de GitHub")
+[URL_Externa](https://docs.github.com/es/rest/guides "Un enlace a una guia de documentacion de GitHub")
 
-[URL_Markdown](ejercicio1.md/ "Enlace a un fichero Markdown de el repositorio")
+[URL_Markdown](ejercicio1.md "Enlace a un fichero Markdown de el repositorio")
 
-![Imagen](Imagenes1/Imagen1.png/ "Enlace a una imagen del repositorio")
+![Imagen](Imagenes1/Imagen1.png "Enlace a una imagen del repositorio")
 
 |Lunes|Martes|Miécoles|Jueves|Viernes|
 |:---|---|---|---|---:|
